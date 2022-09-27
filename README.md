@@ -1,14 +1,15 @@
 
 
 ## Introduction 👨‍💻
-It is a voice assistant which can be used to interact with your computer and also you have been seeing it in Iron man movies, but this JARVIS is not that much advanced as shown in movies. 
+It is a voice assistant which can be used to interact with your computer and also you have been seeing it in Iron man movies, but this JARVIS is not that much advanced as shown in movies.
+
+Made by Knight Owls, in Tech-a-thon 3.0
 
 
 ## Cool functionalities of JARVIS 😎 :)
 
 I have wrote code which you can use JARVIS in the following ways :
 
-- It can tell **count of Covid-19 cases for each state in India**
 - It can do **Screen Recording with voice recording** stuff.
 - It can also do **voice recording**
 - It can access your **mobile camera**
